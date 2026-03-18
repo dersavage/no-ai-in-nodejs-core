@@ -12,6 +12,9 @@ allowed. Accepting LLM changes to Node.js core would break the reputational
 bedrock of public contributions that have brought Node.js to its current
 public standing and societal value.
 
+Submitted generated code should be reproducible by reviewers without having to
+go through the paywall of subscription based LLM tooling.
+
 ## Background
 
 [A 19k lines-of-code Pull Request][1] was opened without much public attention
