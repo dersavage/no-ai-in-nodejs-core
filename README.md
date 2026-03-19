@@ -114,6 +114,7 @@ speed up the process.
 - Etienne Rouge (Software Engineer, Open Source Maintainer, depending on Node.js since 2017)
 - Rebecca König (Software Developer)
 - Noah Hall (Software Engineer, former Elm core team)
+- Edward Loveall (Software Developer)
 
 [0]: https://github.com/openjs-foundation/cross-project-council/issues/1509
 [1]: https://github.com/nodejs/node/pull/61478
