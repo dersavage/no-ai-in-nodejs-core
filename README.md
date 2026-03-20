@@ -17,15 +17,15 @@ go through the paywall of subscription based LLM tooling.
 
 ## Background
 
-[A 19k lines-of-code Pull Request][1] was opened in January, 2026. The 
-[author][2] is a well known and long time contributor to Node.js core, but the 
+[A 19k lines-of-code Pull Request][1] was opened in January, 2026. The
+[author][2] is a well known and long time contributor to Node.js core, but the
 Pull Request description has listed this sentence as a disclaimer:
 
 > I've used a significant amount of Claude Code tokens to create this PR.
 > I've reviewed all changes myself.
 
-The [blog post][3] that surfaced on [Hacker News][4] that started a debate over 
-whether a change like that even satisfies the requirements of 
+The [blog post][3] that surfaced on [Hacker News][4] that started a debate over
+whether a change like that even satisfies the requirements of
 [Developer's Certificate of Origin (DCO)][5]:
 
 ```text
@@ -118,6 +118,7 @@ speed up the process.
 - Edward Loveall (Software Developer)
 - Diogo Goncalves Silva (Software Engineer)
 - Johan Alkstål (Software Developer)
+- Jan M Savage (Software Engineer)
 
 [0]: https://github.com/openjs-foundation/cross-project-council/issues/1509
 [1]: https://github.com/nodejs/node/pull/61478
